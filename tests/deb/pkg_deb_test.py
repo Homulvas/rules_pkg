@@ -251,7 +251,7 @@ class PkgDebTest(unittest.TestCase):
 
       self.maxDiff = None
       expect = '''Format: 1\.8
-Date: Thu Jan  1 \d{2}:00:00 1970
+Date: Thu Jan  1 00:00:00 1970
 Source: fizzbuzz
 Binary: fizzbuzz
 Architecture: all
